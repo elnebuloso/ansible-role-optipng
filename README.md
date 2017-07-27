@@ -1,6 +1,6 @@
-# Ansible Role - rolename for Linux Server
+# Ansible Role - optipng for Linux Server
 
-[![Build Status](https://travis-ci.org/elnebuloso/ansible-role-rolename.svg?branch=master)](https://travis-ci.org/elnebuloso/ansible-role-rolename)
+[![Build Status](https://travis-ci.org/elnebuloso/ansible-role-optipng.svg?branch=master)](https://travis-ci.org/elnebuloso/ansible-role-optipng)
 
 ## Requirements
 
