@@ -20,7 +20,7 @@ None.
 ```
 - hosts: localhost
   roles:
-    - role: elnebuloso.rolname
+    - role: elnebuloso.optipng
 ```
 
 ## Dependencies
