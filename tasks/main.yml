@@ -1,0 +1,9 @@
+---
+- name: include os variables
+  include_vars: "{{rolename_os}}.yml"
+  when: rolename_os is defined and rolename_os != ""
+
+################################################################################################
+
+- name: install role
+  apt: pkg={{rolename_package}} state=present update_cache=yes cache_valid_time=3600

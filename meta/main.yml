@@ -1,0 +1,20 @@
+galaxy_info:
+  author: elnebuloso
+  description: rolename for Linux Server
+  license: license (MIT)
+
+  min_ansible_version: 2.0
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+
+  galaxy_tags:
+    - system
+    - server
+    - development
+    - rolename
+
+dependencies: []
