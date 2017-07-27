@@ -1,6 +1,6 @@
-# Ansible Role - CI Tools for Linux Server
+# Ansible Role - rolename for Linux Server
 
-[![Build Status](https://travis-ci.org/elnebuloso/ansible-role-ci.svg?branch=master)](https://travis-ci.org/elnebuloso/ansible-role-ci)
+[![Build Status](https://travis-ci.org/elnebuloso/ansible-role-rolename.svg?branch=master)](https://travis-ci.org/elnebuloso/ansible-role-rolename)
 
 ## Requirements
 
